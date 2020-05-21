@@ -1,8 +1,6 @@
 # CryptoList
 Curated collection of blockchain &amp; cryptocurrency links.
 
-[<img src="https://github.com/coinpride/CryptoList/blob/master/cryptolist_logo.png?raw=true" width="500">](https://github.com/coinpride/CryptoList)
-
 
 # Contents
 - [Media](#media)
