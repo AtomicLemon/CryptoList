@@ -138,6 +138,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [ICO Toplist](https://icotoplist.com) - List, review and rate all ICOs: Past, Active and Upcoming ones.
 
 # Exchanges
+* [Flame.Exchange](https://www.flame.exchange) - Altcoins/Privacy/Security
 * [Local Bitcoins](https://localbitcoins.com/) - Buy and sell bitcoins near you. Trusted by 10M monthly users.
 * [Poloniex](https://www.poloniex.com/) - USA. Trust: 3.5/5. Tons of altcoins. Poor support.
 * [CoinBase](https://www.coinbase.com) - USA. Trust: 5/5. Pay with fiat.
