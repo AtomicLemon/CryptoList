@@ -317,6 +317,8 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [CryptoWatch](https://cryptowat.ch/docs/api) - Public REST API, providing basic information about all markets on Cryptowatch.
 * [Microsoft BaaS](https://azure.microsoft.com/en-in/solutions/blockchain/) - Blockchain as Service (BaaS) from Microsoft Azure.
 * [CoinMarketCap](https://coinmarketcap.com/api/) - Powerful JSON API covering 1000+ coins. Limit: 1 request per 6 sec.
+* [CoinPaprika](https://coinpaprika.com/api/) - 17 Endpoints with 10 requests per second. free.
+* [CoinGecko](https://www.coingecko.com/en/api) - The world's most comprehensive cryptocurrency API
 * [CryptoCompare](https://min-api.cryptocompare.com/) - Join leading global institutions and build your product using our historical and real-time cryptocurrency data. For personal / non-commercial projects or for commercial trial purposes. Capped at 250,000 lifetime calls.
 * [CoinCap](https://docs.coincap.io/) - Simple and informative. Lots of altcoins. History data. No limits.
 * [ChangeNOW](https://changenow.io/api/docs) - Easy integration of the cryptocurrency exchange. Limitless and fast coin swaps free of custody.
@@ -377,12 +379,6 @@ Curated collection of blockchain &amp; cryptocurrency links.
 # Games
 * [CryptoKitties](https://www.cryptokitties.co/) - Collect, breed and trade rare kitties in one of the world's first blockchain games.
 
-# Sponsors
-[<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/sponsors/findbitcoinatm_sponsor_logo.png">](https://www.findbitcoinatm.com.au/)
-
-[<img height="70" src="https://raw.githubusercontent.com/coinpride/CryptoList/master/sponsors/crypto_weekly_list.png">](https://cryptoweekly.co/list/?ref=coinpride)
-
-[<img width="240" src="https://raw.githubusercontent.com/coinpride/CryptoList/master/sponsors/quadency.jpg">](https://quadency.com/?utm_source=GitHubCL&utm_medium=Sponsorship&utm_campaign=CryptoList)
 
 # Contribute
 Found a nice link? Noticed a bug? Feel free to contribute! You are so much welcome! But read the [CONTRIBUTING.md](https://github.com/coinpride/CryptoList/blob/master/CONTRIBUTING.md) first.
