@@ -306,6 +306,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 
 # Trading Tools
 * [Quadency](https://quadency.com) - Crypto trading and real-time portfolio analytics.
+* [Coygo](https://coygo.app) - Multi-exchange crypto trading, portfolio tracking, transferring, and real-time insights.
 
 # For Developers
 ## API
